@@ -2,7 +2,10 @@
 
 This project demonstrates object tracking using OpenCV, allowing you to select objects in a video stream and track their positions using different tracking algorithms.
 
-![object_tracking_gif](https://github.com/Quan20021511/Digital_Clock/assets/129273695/07794c2d-b664-4a74-8365-38afcce1ddcb) ![opencv tracking](https://github.com/Quan20021511/Digital_Clock/assets/129273695/1c306dba-459c-41b4-bb8b-650614f42aa3)
+<div align="center">
+  <img src="https://github.com/Quan20021511/Digital_Clock/assets/129273695/07794c2d-b664-4a74-8365-38afcce1ddcb" width="400" alt="Object Tracking GIF 1">
+  <img src="https://github.com/Quan20021511/Digital_Clock/assets/129273695/1c306dba-459c-41b4-bb8b-650614f42aa3" width="400" alt="Object Tracking GIF 2">
+</div>
 
 
 ## Features
