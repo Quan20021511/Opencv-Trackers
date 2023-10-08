@@ -56,12 +56,8 @@ python object_tracking.py
 
 Contributions to this project are welcome! If you have suggestions for improvements or additional features, please create a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Nguyen Duc Quan](https://github.com/yourusername)
 
 Enjoy object tracking with OpenCV!
